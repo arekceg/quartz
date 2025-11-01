@@ -1,2 +1,0 @@
-- Przedwieczna, nieskończona fala energii przecinająca cały świat
-- Źródło życia i magii
