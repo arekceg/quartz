@@ -1,4 +1,0 @@
-- Zaburzenia [[Świat/Pływ|Pływu]] wywołują niemal niedostrzegalne [[Equilibria/Świat/Szala#Śpiew|ruchy i naprężenia Szali]].  Naprężenia te i ruchy powodują wyjątkową reakcję [[Świat/Pływ|Pływu]] i Sonomanci to zakon osób wyczulonych na czytanie tej [[Equilibria/Świat/Szala#Śpiew|reakcji]].
-- Sonomanci zapisują [[Equilibria/Świat/Szala#Śpiew|Śpiew Szali]] w postaci Sonomatycznych nut których chaotyczny układ wskazuje na miejsca zaburzeń pływu
-- Gdy Sonomanci wyczują zaburzenie, wzywają [[Equilibria/Świat/Szala/Equilibraxis]] – zakon strażników równowagi. Są oni wykonawcami woli [[Equilibria/Świat/Szala|Szali]], podróżującymi do miejsc, gdzie balans jest zakłócony.
-- W większości pochodzą z [[Świat/Krainy/Lux]] i [[Świat/Krainy/Sylvia|Sylvii]], czasami zdarzają się osoby obdarowane odpowiednimi talentami z innych krain ale to rzadkość
