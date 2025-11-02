@@ -1,8 +1,8 @@
  **Żywioł:** Stal
-   - **Bóg:** [[Świat/Bogowie/Ferrun]] – Bóg konstrukcji, matematyki, metalu i boskiego ładu
-   - **Pontifex:** [[Świat/Pontifex]] Fierra
+   - **Bóg:** [[Ferrun]] – Bóg konstrukcji, matematyki, metalu i boskiego ładu
+   - **Pontifex:** [[Pontifex]] Fierra
    - **Święty symbol: Tron Ładu**
      Pomnik przedstawiający króla siedzącego na tronie, odlany ze stopionych resztek przypadkowych metali, które w ogniu przyjęły doskonałe matematyczne proporcje. Jest zawsze gorący – nie da się go dotknąć bez oparzeń. Jego ciepło symbolizuje żar kuźni, a jego forma – boski porządek wyrastający z chaosu przez działanie umysłu.
-     Według przekazów, metal użyty do jego stworzenia pochodził z fragmentów młota [Ferruna](Świat/Bogowie/Ferrun.md), które odpadły w trakcie jego walki z Księciem Krwi. To, że metal przyjął idealną formę mimo przypadkowości surowca, uważa się za znak boskiego zamiaru i wiecznego balansu kompozycji
-   - Forga to miejsce, gdzie rzemiosło i inżynieria są religią. Mieszkańcy tej krainy wierzą, że poprzez twórczość można zbliżyć się do boskości. Modlitwy mieszkańców nie mają formy pieśni ani modlitw ustnych – to równania, wykresy i formuły, które rozwiązując, przynoszą chwałę [Ferrunowi](Świat/Bogowie/Ferrun.md). Rzemiosło i inżynieria to nie tylko praca, ale rytuał religijny – każdy nowy wzór, każde uderzenie młota, każdy udany eksperyment  jest ofiarą składaną boskiemu Ładowi.
+     Według przekazów, metal użyty do jego stworzenia pochodził z fragmentów młota [Ferruna](Ferrun), które odpadły w trakcie jego walki z Księciem Krwi. To, że metal przyjął idealną formę mimo przypadkowości surowca, uważa się za znak boskiego zamiaru i wiecznego balansu kompozycji
+   - Forga to miejsce, gdzie rzemiosło i inżynieria są religią. Mieszkańcy tej krainy wierzą, że poprzez twórczość można zbliżyć się do boskości. Modlitwy mieszkańców nie mają formy pieśni ani modlitw ustnych – to równania, wykresy i formuły, które rozwiązując, przynoszą chwałę [Ferrunowi](Ferrun). Rzemiosło i inżynieria to nie tylko praca, ale rytuał religijny – każdy nowy wzór, każde uderzenie młota, każdy udany eksperyment  jest ofiarą składaną boskiemu Ładowi.
    - Wierzą że Pływ można zrozumieć i usystematyzować używając równań matematycznych. Dążą do stworzenia ostatecznego mechanizmu matematycznego pozwalającego opisać Pływ i dzięki niemu móc przewidywać przyszłość, w pełni zrozumieć przeszłość i osiągnąć niewyobraźalą wiedzę. 

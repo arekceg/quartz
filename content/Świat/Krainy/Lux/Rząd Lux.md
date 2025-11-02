@@ -2,9 +2,9 @@
 2. Konklawe
 3. Korpuskuły
 ## Luminarch Rex
-   - Główny zarządzający prawem w [[Equilibria/Świat/Krainy/Lux]], "Ślepiec Elyoneth", "Wielki Widzący" 
+   - Główny zarządzający prawem w [[Lux]], "Ślepiec Elyoneth", "Wielki Widzący" 
    - Obecnie: [[Vera Lerthandar]]
-   - Urząd wybierany dożywotnio z członków [[#Konklawe]] w rytuale [[Equilibria/Świat/Krainy/Lux/Wierzenia#Sharat al-Nur| Sharat al-Nur]]
+   - Urząd wybierany dożywotnio z członków [[#Konklawe]] w rytuale [[Wierzenia#Sharat al-Nur | Sharat al-Nur]]
 ## Konklawe
 - 6 Kardynałów odpowiedzialnych za 6 [[#Korpuskuły | Korpuskuł]]
 - Doradcy Luminarcha
@@ -12,7 +12,7 @@
 	- Za zasługi teologiczne i naukowe
 	- Znajomości
 	- Gry polityczne
-- Kardynał to urząd dożywotni (patrz [[Equilibria/Świat/Krainy/Lux/Wierzenia#Sharat al-Nur|Sharat al-Nur]])
+- Kardynał to urząd dożywotni (patrz [[Wierzenia#Sharat al-Nur|Sharat al-Nur]])
 - Można dobrowolnie zrezygnować ze stanowiska, wtedy [Konklawe](Rząd Lux#Konklawe) wybiera następcę
 
 ## Korpuskuły
@@ -35,9 +35,9 @@
 - **Zadania:** Archiwizacja, kontrola przepływu wiedzy, zarządzanie bibliotekami i kronikami, zatwierdzanie publikacji  
 
 ##### Korpuskuła Militiae
-- **Dziedzina:** Obrona, ekspansja, rycerstwo, armia [[Equilibria/Świat/Krainy/Lux]]
-- **Zadania:** Dowodzenie armiami [[Equilibria/Świat/Krainy/Lux]], ochrona pielgrzymek, wojny religijne, egzekucje polowe  
+- **Dziedzina:** Obrona, ekspansja, rycerstwo, armia [[Lux]]
+- **Zadania:** Dowodzenie armiami [[Lux]], ochrona pielgrzymek, wojny religijne, egzekucje polowe  
 
 ##### Korpuskuła Vox
-- **Dziedzina:** Sztuka, muzyka, [Sonomancja](Świat/Szala/Sonomanci.md), propaganda  
-- **Zadania:** Szkolenie bardów i potencjalnych [sonomantów](Świat/Szala/Sonomanci.md), tworzenie hymnów i liturgii, kontrola przekazu i emocji tłumów  
+- **Dziedzina:** Sztuka, muzyka, [Sonomancja](Sonomanci.md), propaganda  
+- **Zadania:** Szkolenie bardów i potencjalnych [sonomantów](Sonomanci.md), tworzenie hymnów i liturgii, kontrola przekazu i emocji tłumów  

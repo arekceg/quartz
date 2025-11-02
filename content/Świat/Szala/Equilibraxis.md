@@ -1,11 +1,11 @@
 **Straż Szali**
 
-* Starożytny zakon który powstał by bronić [Szali](Equilibria/Świat/Szala.md), [Sonomantów](Equilibria/Świat/Szala/Sonomanci.md) i reagować na ich [[Equilibria/Świat/Szala#Śpiew|partytury]]
+* Starożytny zakon który powstał by bronić [Szali](Szala.md), [Sonomantów](Sonomanci.md) i reagować na ich [[Szala#Śpiew|partytury]]
 - Każdy może się zapisać ale mało kto wytrzymuje do końca rekrutacji.
 - Pod koniec rekrutacji Szala przez śpiew wybiera kto trafia do Straży
 - Equilibraxis to starożytna, neutralna instytucja, która ma pilnować, by balans sił królestw i mocy żywiołów został zachowany
 - Przez swoje przeznaczenie często muszą naruszać jurysdykcję lokalnych władz
-- Ich siedziba to [[Świat/Forteca Szali]] zbudowana dookoła [Szali](Equilibria/Świat/Szala.md) 
+- Ich siedziba to [[Forteca Szali]] zbudowana dookoła [Szali](Szala.md) 
 
 ### Praxis Equilibrari
 

@@ -1,8 +1,8 @@
 - **Żywioł**: Światło
-- **Bogini:** [[Świat/Bogowie/Elyoneth]] – Bogini światłości, objawienia, sądu i prawdy
-- **Tytuł:** [[Świat/Pontifex]] Lux
+- **Bogini:** [[Elyoneth]] – Bogini światłości, objawienia, sądu i prawdy
+- **Tytuł:** [[Pontifex]] Lux
 - **Domeny:** Light, Order, Twilight
-- **Święty symbol** : [[Equilibria/Świat/Krainy/Lux/Wierzenia#Wieczny Promień|Wieczny Promień]]
+- **Święty symbol** : [[Wierzenia#Wieczny Promień|Wieczny Promień]]
 - **Stolica:** Lumin
 
 
